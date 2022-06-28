@@ -10,16 +10,18 @@
 3. Bound it to Android Studio;
 4. Then, run the project and it will work.
 
-## Screens
+## Main Screens
 
 <div align="center">
-	<img width=20% src="https://user-images.githubusercontent.com/66131453/175055207-bded8efe-e043-4825-9297-34e01b216be2.png">
-		&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width=20% src="https://user-images.githubusercontent.com/66131453/175055353-d92daae4-644e-44b7-acad-0c01776cf047.png">
+	<img width=16% src="https://user-images.githubusercontent.com/66131453/176278198-67ac7c97-6a5a-40cf-9eb6-544281653856.png">
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width=20% src="https://user-images.githubusercontent.com/66131453/175055379-fad92747-8666-4674-ae89-078da18061b9.png">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-	<img width=20% src="https://user-images.githubusercontent.com/66131453/175055410-45e6ce1b-2b9c-4a01-92e0-f469c4c8f079.png">
+	<img width=16% src="https://user-images.githubusercontent.com/66131453/176278751-fd3aefae-adf5-4563-8e17-9cc4cd0b4d4c.png">
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<img width=16% src="https://user-images.githubusercontent.com/66131453/176278280-517e000a-f132-4461-aa7b-10ef75be7cc1.png">
+  	&nbsp;&nbsp;&nbsp;&nbsp;
+	<img width=16% src="https://user-images.githubusercontent.com/66131453/176278435-7dbbdf7b-f083-4a22-8087-99f26307ed4c.png">
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<img width=16% src="https://user-images.githubusercontent.com/66131453/176279432-395ba5ac-f449-43cf-bfb3-986c78208ae2.png">
 </div>
 
 ## Main Tecnologies used
