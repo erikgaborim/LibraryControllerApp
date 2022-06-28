@@ -24,7 +24,7 @@
 	<img width=16% src="https://user-images.githubusercontent.com/66131453/176279432-395ba5ac-f449-43cf-bfb3-986c78208ae2.png">
 </div>
 
-## Main Tecnologies used
+## Tecnologies used
   
 <div align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
